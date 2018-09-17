@@ -5,6 +5,7 @@ public class Apple {
 	
 	public  void people() {
 		System.out.println(S);
+		System.out.println("left");
 	} 
 
 }
